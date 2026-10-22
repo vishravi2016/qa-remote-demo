@@ -1,2 +1,3 @@
 medical device quality test plan
 TC001: device power ON test
+TC002: battery status verification
